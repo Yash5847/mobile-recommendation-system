@@ -1,5 +1,12 @@
 # 📱 Mobile Recommendation System
 
+<img width="1890" height="867" alt="Screenshot 2025-12-18 175214" src="https://github.com/user-attachments/assets/5835345f-85a6-4b48-a5e2-a3ad8c20669b" />
+<img width="1878" height="898" alt="Screenshot 2025-12-18 175229" src="https://github.com/user-attachments/assets/b2b21878-b604-46d3-bed5-4e1d318d4c09" />
+<img width="1874" height="907" alt="Screenshot 2025-12-18 175246" src="https://github.com/user-attachments/assets/f028287b-7d49-4055-9461-7380e36ea332" />
+<img width="1904" height="918" alt="Screenshot 2025-12-18 175320" src="https://github.com/user-attachments/assets/c88631bd-0a04-4d0b-9bc9-af9f3ea44e4b" />
+<img width="1898" height="929" alt="Screenshot 2025-12-18 175349" src="https://github.com/user-attachments/assets/6e4ba71d-5ded-40fc-aff1-f7ec52dbdf28" />
+<img width="1889" height="926" alt="Screenshot 2025-12-18 175413" src="https://github.com/user-attachments/assets/5f496acf-f841-472d-9784-a39df09f7e75" />
+
 ## 🎯 Project Overview
 
 A **production-ready, end-to-end Machine Learning system** that provides intelligent smartphone recommendations and rating predictions. This project demonstrates advanced data science skills, ML engineering, and full-stack development capabilities - perfect for showcasing in a data science portfolio.
@@ -592,5 +599,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **⭐ If you find this project helpful, please give it a star!**
 
 ---
+
 
 *Last Updated: December 2024*
